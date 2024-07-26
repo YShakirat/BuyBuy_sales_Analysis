@@ -1,3 +1,5 @@
+-- this is shaki's work'
+
 SELECT *
 FROM sales_data
 
